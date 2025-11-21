@@ -37,10 +37,3 @@ Créer une **landing page moderne et responsive** pour :
 - **NFT** : titres fonciers numériques  
 - **Stockage distribué** : IPFS  
 
----
-
-## 🚀 Installation
-
-1. Clone le dépôt :
-```bash
-git clone https://github.com/ton-compte/TerraChain-Goma-LandingPage.git
