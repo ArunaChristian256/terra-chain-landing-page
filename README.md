@@ -2,7 +2,7 @@
 
 **Sécuriser la Terre, Construire la Confiance**  
 Landing page officielle du projet **TerraChain Goma**, une plateforme blockchain pour la sécurisation et la traçabilité des titres fonciers à Goma (quartier Mugunga).  
-Cette page présente le projet, ses fonctionnalités, et intègre un **logo NFT** pour représenter les titres fonciers numériques.
+Cette page présente le projet, ses fonctionnalités, et intègre **NFT** pour représenter les titres fonciers numériques.
 
 ---
 
